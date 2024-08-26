@@ -3,6 +3,7 @@ const images = [
     'bilder/1.jpeg',
      'bilder/2.jpeg',
     'bilder/3.jpeg',
+    'bilder/4.jpeg',
     // fügen Sie hier Ihre weiteren Bilder hinzu
 ];
 
