@@ -1,9 +1,9 @@
 // Liste der Bilder
 const images = [
-    'bilder/1.jpeg',
-     'bilder/2.jpeg',
-    'bilder/3.jpeg',
-    'bilder/4.jpeg',
+    'bilder/1.jpg',
+     'bilder/2.jpg',
+    'bilder/3.jpg',
+    'bilder/4.jpg',
     // fügen Sie hier Ihre weiteren Bilder hinzu
 ];
 
